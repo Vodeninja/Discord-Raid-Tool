@@ -1,3 +1,2 @@
-"# Discord-Raid-Tool" 
-"# Discord-Raid-Tool" 
-"# Discord-Raid-Tool" 
+Discord raid tool
+package: Discordia
